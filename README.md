@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ananya Rawat 👋
+I'm an aspiring Data Analyst and have completed my M.Sc. in Data Science. I enjoy working with data to find patterns, create visualizations, and solve business problems.
 
-<!--
-**Ananya3283/Ananya3283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* SQL
+* Python
+* Power BI
+* Tableau
+* Microsoft Excel
+* Pandas
+* Data Visualization
+* Exploratory Data Analysis (EDA)
 
-Here are some ideas to get you started:
+## Projects
+### HR Analytics Dashboard
+Power BI dashboard analyzing employee attrition, workforce trends, and HR KPIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sales Performance Dashboard
+Interactive Power BI dashboard for sales, profit, customer, and regional performance analysis.
+
+### Netflix Data Analysis
+Python project exploring Netflix content trends, ratings, genres, and content growth.
+
+### MovieLens SQL Analysis
+SQL project analyzing movie ratings, popular movies, and genre performance using the MovieLens dataset.
+
+## Education
+**M.Sc. Data Science**
+Chandigarh University
+
+**B.Sc. (Hons) Mathematics**
+Graphic Era Hill University
+
+## Certifications
+* Google Data Analytics – Coursera
+* SQL for Data Science – Coursera
+* Programming for Everybody (Python) – Coursera
+
+## Connect With Me
+📧 Email: [ananyarawat2824@gmail.com](mailto:ananyarawat2824@gmail.com)
+🔗 GitHub: https://github.com/Ananya3283
+
+ink here
