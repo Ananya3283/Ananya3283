@@ -6,7 +6,7 @@ I turn raw data into answers people can act on: cleaning it, modelling it, testi
 putting it in front of decision-makers as dashboards. Lately I've been building the pipelines
 underneath, from a data lake through Spark and dbt to a tested star schema.
 
-[LinkedIn](https://www.linkedin.com/in/ananya-rawat-962290447/) · 📧 ananyaarawt@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ananyarawat-data/) · 📧 ananyaarawt@gmail.com
 
 ## 📂 Featured Projects
 
@@ -33,7 +33,7 @@ End-to-end analytics project analyzing **150,000+ ride bookings** using Python, 
 
 ### 🛒 [E-Commerce Customer Sales Analytics](https://github.com/Ananya3283/ecommerce-customer-sales-analytics)
 
-End-to-end data analytics project using Python, MySQL, and Power BI to analyze **505,193** online retail transactions. Includes data cleaning, EDA, RFM customer segmentation, SQL analysis, and an interactive Power BI dashboard.
+End-to-end data analytics project using Python, MySQL, and Power BI to analyze **502,416** online retail transactions. Includes data cleaning, EDA, RFM customer segmentation, SQL analysis, and an interactive Power BI dashboard.
 
 **Tech Stack:** Python • Pandas • SQL • MySQL • Power BI
 
