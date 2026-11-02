@@ -6,7 +6,7 @@ I turn raw data into answers people can act on: cleaning it, modelling it, testi
 putting it in front of decision-makers as dashboards. Lately I've been building the pipelines
 underneath, from a data lake through Spark and dbt to a tested star schema.
 
-[LinkedIn](https://www.linkedin.com/in/ananya-rawat-962290447/) · 📧 ananyarawat2824@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ananya-rawat-962290447/) · 📧 ananyaarawt@gmail.com
 
 ## 📂 Featured Projects
 
