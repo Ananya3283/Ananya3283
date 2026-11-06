@@ -6,7 +6,7 @@ I turn raw data into answers people can act on: cleaning it, modelling it, testi
 putting it in front of decision-makers as dashboards. Lately I've been building the pipelines
 underneath, from a data lake through Spark and dbt to a tested star schema.
 
-[LinkedIn](https://www.linkedin.com/in/ananyarawat-data/) · 📧 ananyaarawt@gmail.com
+🌐 **[Portfolio](https://ananya3283.github.io)** · [LinkedIn](https://www.linkedin.com/in/ananyarawat-data/) · 📧 ananyaarawt@gmail.com
 
 ## 📂 Featured Projects
 
@@ -25,6 +25,8 @@ it in Docker and GitHub Actions tests every push. Verified on a real run of **2M
 
 ### 🚗 [Indian Ride Sharing Analytics](https://github.com/Ananya3283/indian-ride-sharing-analytics)
 
+**[Live dashboard](https://ananya3283.github.io/indian-ride-sharing-analytics/)** · no install needed
+
 End-to-end analytics project analyzing **150,000+ ride bookings** using Python, MySQL, and Power BI. Includes data cleaning, exploratory analysis, 30+ SQL queries, and an interactive dashboard covering revenue, booking status, vehicle performance, payment methods, and pickup locations.
 
 **Tech Stack:** Python • Pandas • SQL • MySQL • Power BI
@@ -32,6 +34,8 @@ End-to-end analytics project analyzing **150,000+ ride bookings** using Python, 
 ---
 
 ### 🛒 [E-Commerce Customer Sales Analytics](https://github.com/Ananya3283/ecommerce-customer-sales-analytics)
+
+**[Live dashboard](https://ananya3283.github.io/ecommerce-customer-sales-analytics/)** · no install needed
 
 End-to-end data analytics project using Python, MySQL, and Power BI to analyze **502,416** online retail transactions. Includes data cleaning, EDA, RFM customer segmentation, SQL analysis, and an interactive Power BI dashboard.
 
@@ -41,13 +45,29 @@ End-to-end data analytics project using Python, MySQL, and Power BI to analyze *
 
 ### 🎥 [MovieLens SQL Analysis](https://github.com/Ananya3283/MovieLens-SQL-Analysis)
 
+**[Live dashboard](https://ananya3283.github.io/MovieLens-SQL-Analysis/)** · no install needed
+
 SQL project analyzing movie ratings, user behavior, and genre performance using the MovieLens dataset. Includes joins, aggregations, CASE statements, and window functions to answer analytical questions.
 
 **Tech Stack:** SQL • MySQL
 
-More: [Sales Performance Dashboard](https://github.com/Ananya3283/Sales-Performance-Dashboard) ·
-[HR Analytics Dashboard](https://github.com/Ananya3283/HR-Analytics-Dashboard) ·
-[Netflix Data Analysis](https://github.com/Ananya3283/Netflix-Data-Analysis)
+---
+
+### 👥 [HR Analytics: Attrition Drivers and Cost of Retention](https://github.com/Ananya3283/HR-Analytics-Dashboard)
+
+**[Live dashboard](https://ananya3283.github.io/HR-Analytics-Dashboard/)** · no install needed
+
+A 3-page Power BI report on **1,470 employees**: where attrition happens, why people leave, and whether a raise pays for itself. Overtime staff leave 2.9x as often (30.5% vs 10.4%).
+
+**Tech Stack:** Power BI • DAX • Power Query • SQL
+
+---
+
+**More projects:**
+- [Sales Performance Dashboard](https://github.com/Ananya3283/Sales-Performance-Dashboard) · [live dashboard](https://ananya3283.github.io/Sales-Performance-Dashboard/)
+- [Netflix Data Analysis](https://github.com/Ananya3283/Netflix-Data-Analysis) · [live dashboard](https://ananya3283.github.io/Netflix-Data-Analysis/)
+
+Every project is on my **[portfolio](https://ananya3283.github.io)**.
 
 ## 💼 Experience
 
@@ -61,7 +81,7 @@ More: [Sales Performance Dashboard](https://github.com/Ananya3283/Sales-Performa
 
 - **Languages:** Python, SQL (CTEs, window functions)
 - **Analysis:** Pandas, NumPy, EDA, data cleaning, A/B testing, RFM segmentation, KPI reporting
-- **Data engineering:** ELT pipelines, star-schema data modeling, data warehousing, data quality testing, CI/CD with GitHub Actions
+- **Data engineering:** ELT pipelines, star-schema data modeling, data warehousing, dbt, Apache Airflow, PySpark, data quality testing, CI/CD with GitHub Actions
 - **BI and visualization:** Power BI (DAX), Tableau, Excel (Power Query, Pivot Tables), Matplotlib, Seaborn
 - **Databases and tools:** PostgreSQL, MySQL, Jupyter, Git & GitHub
 
